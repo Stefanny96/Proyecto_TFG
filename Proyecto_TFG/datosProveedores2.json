@@ -1,0 +1,19 @@
+[
+  {
+    "proveedor_id": "1",
+    "nombre_razon_social": "Empower Digital Cloud S.L",
+    "nif_cif": "B904657124",
+    "direccion": {
+      "calle": "Calle Palencia 47",
+      "ciudad": "Madrid",
+      "pais": "Espa\u00F1a",
+      "codigo_postal": "28020"
+    },
+    "contacto_principal": {
+      "nombre": "Claudiu Emanoel Postovei",
+      "cargo": "Responsable IT",
+      "telefono": "691112721",
+      "correo_electronico": "claudio@syscomputers.es"
+    }
+  }
+]
